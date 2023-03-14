@@ -1,0 +1,32 @@
+[
+     {
+          "first_name": "Alex",
+          "last_name": "Marin Mendez",
+          "seniory": "JR",
+          "age": 67,
+          "stack": "javascript",
+          "nationality": "Peru",
+          "dni": "123456789",
+          "id": 1
+     },
+     {
+          "first_name": "Lautaro",
+          "last_name": "Vasquez",
+          "seniory": "JR",
+          "age": 67,
+          "stack": "javascript",
+          "nationality": "Argentina",
+          "dni": "123456789",
+          "id": 2
+     },
+     {
+          "first_name": "Gustavo",
+          "last_name": "Torres",
+          "seniory": "JR",
+          "age": 67,
+          "stack": "javascript",
+          "nationality": "Argentina",
+          "dni": "123456789",
+          "id": 3
+     }
+]
